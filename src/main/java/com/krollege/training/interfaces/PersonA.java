@@ -1,4 +1,4 @@
-package com.kroellege.training.interfaces;
+package com.krollege.training.interfaces;
 
 @FunctionalInterface
 public interface PersonA {

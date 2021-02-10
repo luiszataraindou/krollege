@@ -1,4 +1,4 @@
-package com.kroellege.training.lambda;
+package com.krollege.training.lambda;
 
 public class Scopes {
 

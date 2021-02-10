@@ -1,9 +1,9 @@
-package com.kroellege.training.main;
+package com.krollege.training.main;
 
-import com.kroellege.training.interfaces.DefaultMethod;
-import com.kroellege.training.lambda.Lambda;
-import com.kroellege.training.lambda.LambdaSintax;
-import com.kroellege.training.method.reference.MethodReference;
+import com.krollege.training.interfaces.DefaultMethod;
+import com.krollege.training.lambda.Lambda;
+import com.krollege.training.lambda.LambdaSintax;
+import com.krollege.training.method.reference.MethodReference;
 
 
 public class Application {

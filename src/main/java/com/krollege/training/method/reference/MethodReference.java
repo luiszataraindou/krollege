@@ -1,10 +1,10 @@
-package com.kroellege.training.method.reference;
+package com.krollege.training.method.reference;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-import com.kroellege.training.interfaces.PersonA;
-import com.kroellege.training.interfaces.PersonB;
+import com.krollege.training.interfaces.PersonA;
+import com.krollege.training.interfaces.PersonB;
 
 public class MethodReference {
 

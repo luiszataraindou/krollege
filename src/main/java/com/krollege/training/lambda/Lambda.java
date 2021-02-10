@@ -1,4 +1,4 @@
-package com.kroellege.training.lambda;
+package com.krollege.training.lambda;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,6 +1,6 @@
-package com.kroellege.training.interfaces;
+package com.krollege.training.interfaces;
 
-import com.kroellege.training.lambda.Operation;
+import com.krollege.training.lambda.Operation;
 
 
 public class FunctionalInterfaces {
